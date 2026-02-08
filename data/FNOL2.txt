@@ -1,0 +1,14 @@
+Policy Number: POL67890
+Policyholder Name: Anjali Sharma
+
+Incident Date: 05-10-2024
+Incident Location: Bengaluru
+Description: Bike slipped due to rain.
+
+Claimant: Anjali Sharma
+
+Asset Type: Bike
+Estimated Damage: 12000
+
+Claim Type: Vehicle
+Attachments: None

@@ -1,0 +1,19 @@
+Policy Number: POL12345
+Policyholder Name: Ramesh Kumar
+Policy Effective Dates: 01-01-2024 to 31-12-2024
+
+Incident Date: 12-09-2024
+Incident Time: 14:30
+Incident Location: Hyderabad
+Description: Minor car accident at traffic signal.
+
+Claimant: Ramesh Kumar
+Contact Details: 9876543210
+
+Asset Type: Car
+Asset ID: CAR567
+Estimated Damage: 18000
+
+Claim Type: Vehicle
+Attachments: Photos
+Initial Estimate: 18000

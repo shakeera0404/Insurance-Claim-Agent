@@ -1,0 +1,19 @@
+Policy Number: POL11223
+Policyholder Name: Meena Patel
+Policy Effective Dates: 01-06-2024 to 31-05-2025
+
+Incident Date: 25-10-2024
+Incident Time: 10:15
+Incident Location: Ahmedabad
+Description: Accident caused injury to passenger.
+
+Claimant: Meena Patel
+Contact Details: 9988776655
+
+Asset Type: Car
+Asset ID: CAR333
+Estimated Damage: 60000
+
+Claim Type: Injury
+Attachments: Medical Reports
+Initial Estimate: 60000

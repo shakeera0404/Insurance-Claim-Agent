@@ -1,0 +1,19 @@
+Policy Number: POL54321
+Policyholder Name: Suresh Rao
+Policy Effective Dates: 01-03-2024 to 28-02-2025
+
+Incident Date: 18-11-2024
+Incident Time: 22:00
+Incident Location: Chennai
+Description: Accident seems staged and inconsistent, possible fraud involved.
+
+Claimant: Suresh Rao
+Contact Details: 9123456780
+
+Asset Type: Car
+Asset ID: CAR999
+Estimated Damage: 45000
+
+Claim Type: Vehicle
+Attachments: Photos, Police Report
+Initial Estimate: 45000
