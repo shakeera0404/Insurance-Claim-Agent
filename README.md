@@ -1,4 +1,4 @@
-Insurance Claim Agent
+# Insurance Claim Agent
 
 ## Overview
 This project implements a lightweight autonomous agent to process FNOL (First Notice of Loss) documents.
